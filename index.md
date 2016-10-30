@@ -4,11 +4,11 @@
 ##Directory
 This page record all the point I learn !
 ### Spring
-##### [see Spring Base Detail](https://tuoji.github.io/Detal/Spring.md)
+##### [see Spring Base Detail](https://tuoji.github.io/Detail/Spring.md)
 ### Spring Boot
-##### [see Spring Boot Detail](https://tuoji.github.io/Detal/SpringBoot.md)
+##### [see Spring Boot Detail](https://tuoji.github.io/Detail/SpringBoot.md)
 ### Java 8
-##### [see Java 8 Detail](https://tuoji.github.io/Detal/Java8.md "Java 8")
+##### [see Java 8 Detail](https://tuoji.github.io/Detail/Java8.md "Java 8")
 ### MongoDB
-##### [see MongoDB Detail](https://tuoji.github.io/Detal/MongoDB.md "MongoDB")
+##### [see MongoDB Detail](https://tuoji.github.io/Detail/MongoDB.md "MongoDB")
 ### Big Data
