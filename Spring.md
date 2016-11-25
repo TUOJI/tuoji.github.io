@@ -4,7 +4,8 @@
 ###DI原理：
 通过应用上下文(Application Context)把Bean装载和组装起来                                                  
 ###DI方式：
-1.构造器注入（constructor injection）：
+1.构造器注入（constructor injection）；
+2.seter方法注入；
 ###DI目的：
 1.松耦合；
 
@@ -30,6 +31,29 @@ AspectJ
 2.应用上下文：ApplicationContext类；
 ###容器中Bean的生命周期
 （待补充）
+###Spring 模块
+
+
+###数据库类型
+1.传统关系型数据库
+2.Nosql数据库，例如：mongoDB,Neo4J
+
+
+
+
+
+
+
+#装配Bean
+
+
+####装配（wiring）：创建对象之间的关系,是DI的本质
+####装配方式：
+######1.XML显示方式；
+######2.Java Config显示方式；(多用于使用第三方类的时候装配)
+######3.组件扫描（Component Scanning） 和 自动装配(autoWiring)  推荐方式；
+
+#####*tips: @Configeration注解 ：表示使用JavaConfig配置的方式进行装配*
 
 
 
